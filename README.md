@@ -1,5 +1,5 @@
 # Download Links
 
-You can download the Tor Browser for Linux using the link below:
+You can download the Linux Tor Browser using the link below:
 
-[Download Tor Browser for Linux](https://github.com/dileep-kumar-koppula/Apps.Linux.Tor-Browser/releases/download/v1/tor-browser-linux.tar.xz)
+[Download Linux Tor Browser](https://github.com/dileep-kumar-koppula/Apps.Linux.Browser.Tor/releases/download/v1/Linux-Tor-Browser.tar.xz)
